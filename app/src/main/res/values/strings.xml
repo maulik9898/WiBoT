@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WiBoT</string>
+    <string name="DIRECTION_CENTER">DIRECTION_CENTER</string>
+    <string name="DIRECTION_DOWN">DIRECTION_DOWN</string>
+    <string name="DIRECTION_RIGHT">DIRECTION_RIGHT</string>
+    <string name="DIRECTION_UP">DIRECTION_UP</string>
+    <string name="DIRECTION_LEFT">DIRECTION_LEFT</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="about">About</string>
+</resources>
